@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spaceack's github stats](https://github-readme-stats.vercel.app/api?username=Spaceack&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Spaceack's github stats](https://github-readme-stats.vercel.app/api?username=Spaceack&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spaceack&exclude_repo=spaceack.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
